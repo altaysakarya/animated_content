@@ -57,6 +57,9 @@ You can customize the animation duration by providing a `Duration` object to the
 
 ### Example
 
+<img src="https://github.com/altaysakarya/animated_content/blob/main/example_gif.gif?raw=true" height="400" alt="Example GIF">
+
+
 ```dart
 class AnimatedContentExample extends StatelessWidget {
   const AnimatedContentExample({super.key});
