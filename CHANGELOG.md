@@ -6,3 +6,7 @@
 
 * Add a example
 * License
+
+## 1.0.2
+
+* Change description

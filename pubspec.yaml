@@ -1,6 +1,6 @@
 name: animated_content
-description: AnimatedContent package animates content transitions in Flutter apps with slide, fade, and combined animation types. Customize duration and styles to animate the entry and exit of child widgets.
-version: 1.0.1
+description: AnimatedContent package animates content transitions in Flutter apps with slide, fade, and combined animations.
+version: 1.0.2
 homepage: https://github.com/altaysakarya/animated_content
 repository: https://github.com/altaysakarya/animated_content.git
 documentation: https://github.com/altaysakarya/animated_content/blob/master/README.md
